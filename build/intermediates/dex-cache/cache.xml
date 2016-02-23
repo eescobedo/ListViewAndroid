@@ -2,11 +2,18 @@
 <items version="2" >
 
     <item
-        jar="/home/enner/AndroidStudioProjects/AppListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jar="/home/enner/AndroidStudioProjects/ListViewAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/home/enner/AndroidStudioProjects/AppListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_ac5f64075a784155c80ef50eb8ff3a9d20262cd9.jar" />
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/enner/AndroidStudioProjects/ListViewAndroid/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_3d94d0612ed565fc9822b3a2227dff95f83c2586.jar" />
+    </item>
+    <item
+        jar="/home/enner/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/enner/AndroidStudioProjects/AppListView/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_ca4f557036d2cf18eccbd4f7d3fff22de7b45695.jar" />
     </item>
     <item
         jar="/home/enner/AndroidStudioProjects/AppListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
@@ -16,6 +23,20 @@
         <dex dex="/home/enner/AndroidStudioProjects/AppListView/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_29aadab76b07b1221e6fe9f1f8c03ad3dd1f4892.jar" />
     </item>
     <item
+        jar="/home/enner/AndroidStudioProjects/ListViewAndroid/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/enner/AndroidStudioProjects/ListViewAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_eaff5b8fa1020a13d6beeddb0cbb6b580ea8d281.jar" />
+    </item>
+    <item
+        jar="/home/enner/AndroidStudioProjects/AppListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/enner/AndroidStudioProjects/AppListView/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_ac5f64075a784155c80ef50eb8ff3a9d20262cd9.jar" />
+    </item>
+    <item
         jar="/home/enner/AndroidStudioProjects/AppListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -23,11 +44,11 @@
         <dex dex="/home/enner/AndroidStudioProjects/AppListView/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_b11ea1782f862d797aa555f52a0a1521a99a2e3c.jar" />
     </item>
     <item
-        jar="/home/enner/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jar="/home/enner/AndroidStudioProjects/ListViewAndroid/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
         jumboMode="false"
         revision="23.0.2"
-        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
-        <dex dex="/home/enner/AndroidStudioProjects/AppListView/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_ca4f557036d2cf18eccbd4f7d3fff22de7b45695.jar" />
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/enner/AndroidStudioProjects/ListViewAndroid/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.1.1_b4207e05a52ea95617490c9a080354fd84ff945b.jar" />
     </item>
 
 </items>
